@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85159378074",
+    "project_id": "primeform-4b8be",
+    "storage_bucket": "primeform-4b8be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85159378074:android:dcb06fc973de90be6a7323",
+        "android_client_info": {
+          "package_name": "com.example.primeform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhSf_SRjj5N9pOT8uYmgxK0026gnXe7DA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
